@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATOpenGLTest.iml" filepath="$PROJECT_DIR$/ATOpenGLTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main_at/main_at.iml" filepath="$PROJECT_DIR$/main_at/main_at.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main_phone/main_phone.iml" filepath="$PROJECT_DIR$/main_phone/main_phone.iml" />
+    </modules>
+  </component>
+</project>
